@@ -6,7 +6,7 @@
 .chatSelectMo a {
   font-size: 20px;
 }
-.chatList > div {
+.chatList a > div {
   height: 100px;
 }
 .chatList h2 {
